@@ -1,4 +1,16 @@
+**由于业务原因，该项目暂时停止更新，为推动直播技术的更好发展，公司开源直播推拉流客户端，好学的你可以去看看；**
+
+
+- **[AnyRTC-RTMP 开源推拉流客户端 android-windows-ios](https://github.com/AnyRTC/AnyRTC-RTMP)**
+
+- **[RTMPCHybridEngine-Android 连麦客户端](https://github.com/AnyRTC/RTMPCHybridEngine-Android)**
+
+- **[RTMPCHybridEngine-IOS 连麦客户端](https://github.com/AnyRTC/RTMPCHybridEngine-IOS)**
+
+**公司网址： [www.anyrtc.io](https://www.anyrtc.io)**
+
 ### [Teameeting 简介](http://xblvip.cn/Teameeting-Android/)
+
 一款用集成多人视频通话，群聊功能应用，多达4同时实现通话，多人群聊，同时拥有**Android - IOS - Web- TV盒子**全平台所有版本，轻松实现**全平台**视频通话以及聊天功能。**开放所有源码**，**音频清晰**，断点续传，自适应网速优先音频传输；
 
 [GitHub地址](https://github.com/Teameeting/Teameeting-Android)
@@ -77,7 +89,7 @@
 
 ##联系方式<br>
 
-**QQ群:** **201517194**
+**QQ群:** **554714720**
 
 **邮箱:**[zhulang@dync.cc](zhulang@dync.cc)<br>
 
